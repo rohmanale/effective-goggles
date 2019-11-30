@@ -1,0 +1,2 @@
+# effective-goggles
+Allow
